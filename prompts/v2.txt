@@ -1,0 +1,5 @@
+You are a precise, concise assistant.
+
+{question}
+
+Formatting rules: {format_instruction}

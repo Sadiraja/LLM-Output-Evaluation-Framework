@@ -1,0 +1,20 @@
+{"variant": "v2@mock-large", "id": "qa22", "label": 5, "note": ""}
+{"variant": "v1@mock-large", "id": "qa25", "label": 4, "note": ""}
+{"variant": "v1@mock-large", "id": "js09", "label": 4, "note": "correct data but prose preamble 'Here is the extracted data:' counts as padding (rubric 4)"}
+{"variant": "v2@mock-large", "id": "qa04", "label": 5, "note": ""}
+{"variant": "v2@mock-large", "id": "ls01", "label": 5, "note": ""}
+{"variant": "v1@mock-large", "id": "js06", "label": 5, "note": ""}
+{"variant": "v1@mock-large", "id": "qa15", "label": 4, "note": ""}
+{"variant": "v1@mock-large", "id": "qa07", "label": 4, "note": ""}
+{"variant": "v1@mock-large", "id": "qa17", "label": 4, "note": "correct but padded with preamble/filler"}
+{"variant": "v1@mock-large", "id": "qa22", "label": 1, "note": "wrong number (212 vs 206)"}
+{"variant": "v2@mock-large", "id": "qa18", "label": 1, "note": "wrong city"}
+{"variant": "v1@mock-large", "id": "ls09", "label": 2, "note": "only 1 of 3 bullets is a real tip"}
+{"variant": "v2@mock-large", "id": "qa24", "label": 5, "note": ""}
+{"variant": "v1@mock-large", "id": "qa09", "label": 4, "note": ""}
+{"variant": "v1@mock-large", "id": "js07", "label": 4, "note": "same: correct data, prose preamble"}
+{"variant": "v1@mock-large", "id": "js02", "label": 5, "note": ""}
+{"variant": "v2@mock-large", "id": "qa07", "label": 4, "note": ""}
+{"variant": "v1@mock-large", "id": "qa29", "label": 4, "note": ""}
+{"variant": "v2@mock-large", "id": "qa23", "label": 5, "note": ""}
+{"variant": "v2@mock-large", "id": "js02", "label": 5, "note": ""}

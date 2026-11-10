@@ -1,0 +1,10 @@
+{
+  "variants": [
+    "v1@mock-large",
+    "v2@mock-large"
+  ],
+  "n_items": 50,
+  "judge": "heuristic-judge",
+  "simulated_models": true,
+  "timestamp": "2026-11-09 20:23:26"
+}

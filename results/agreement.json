@@ -1,0 +1,56 @@
+{
+  "n": 20,
+  "exact_agreement": 0.95,
+  "within_1": 1.0,
+  "quadratic_weighted_kappa": 0.9824561403508772,
+  "spearman": 1.0,
+  "binary_pass_agreement": 1.0,
+  "binary_pass_kappa": 1.0,
+  "mean_bias_judge_minus_human": 0.05,
+  "confusion_human_rows_judge_cols": [
+    [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      9,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      8
+    ]
+  ],
+  "disagreements": [
+    {
+      "variant": "v1@mock-large",
+      "id": "ls09",
+      "human": 2,
+      "judge": 3,
+      "note": "only 1 of 3 bullets is a real tip"
+    }
+  ]
+}
